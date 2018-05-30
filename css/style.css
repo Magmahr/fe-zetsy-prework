@@ -28,8 +28,7 @@ h1 {
   font-size: 5em;
   font-weight: normal;
   font-family: 'Baskerville', serif;
-  border-bottom: 1px solid;
-  color:rgb(156,172,166);
+  border-bottom: 1px solid #ccc;
 }
 
 h2 {
@@ -47,4 +46,6 @@ p {
   font-size: 0.8em;
 }
 
-header a 
+header a {
+  color: rgb(152,173,166);
+}
