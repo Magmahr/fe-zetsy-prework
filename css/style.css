@@ -68,6 +68,6 @@ header a:hover {
 }
 
 #press img {
-  border: 5px rgb(111,127,122);
+  border: 5px rgb(111,127,122) solid;
 }
 
